@@ -28,7 +28,7 @@ Formée aux techniques quantitatives appliquées à la santé et à la protectio
 ## Projets
 - Analyse des disparités départementales en santé mentale en France et effets de la pandémie de Covid-19 (R/Stata - modélisation en données de panel)
 - Déterminants de l’aide familiale dans l’accompagnement des personnes en situation de dépendance (Stata - régression logistique)
-- Influence de la contribution éducative parentale sur les trajectoires scolaires des enfants (Stata – régression linéaire)
+- Influence de la contribution éducative parentale sur les trajectoires scolaires (Stata – régression linéaire)
 - Analyse des dépenses de soins de ville de l’Assurance Maladie (Power BI)
 
 
