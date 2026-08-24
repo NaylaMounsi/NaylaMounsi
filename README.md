@@ -26,6 +26,8 @@ Formée aux techniques quantitatives appliquées à la santé et à la protectio
 ---
 
 ## Projets
+
+- Analysis of factors associated with overall survival in patients with head and neck squamous cell carcinoma (SQL/R - Analyse de survie)
 - Analyse des disparités départementales en santé mentale en France et effets de la pandémie de Covid-19 (R/Stata - modélisation en données de panel)
 - Déterminants de l’aide familiale dans l’accompagnement des personnes en situation de dépendance (Stata - régression logistique)
 - Influence de la contribution éducative parentale sur les trajectoires scolaires (Stata – régression linéaire)
