@@ -21,6 +21,9 @@ Formée aux techniques quantitatives appliquées à la santé et à la protectio
 ## Domaines d'intérêt
 
 - Santé publique
+- Maladies chroniques
+- Inégalités sociales de santé
+- Déterminants sociaux de santé
 - Épidémiologie
 - Protection sociale
 ---
