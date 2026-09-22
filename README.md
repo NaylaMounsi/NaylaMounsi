@@ -23,7 +23,7 @@ Formée aux techniques quantitatives appliquées à la santé et à la protectio
 - Santé publique
 - Maladies chroniques
 - Inégalités sociales de santé
-- Déterminants sociaux de santé
+- Déterminants sociaux de la santé
 - Épidémiologie
 - Protection sociale
 ---
